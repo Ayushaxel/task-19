@@ -94,4 +94,3 @@ const student = {
 const phoneNO=student.contact?.phone;
 console.log(phoneNO);
 
-// this is task 19
